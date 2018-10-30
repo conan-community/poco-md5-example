@@ -1,6 +1,6 @@
 # Poco MD5 Example
 
-Example of and MD% calculation app using POCO C++ libraries installed with Conan C/C++ package manager.
+Example of and MD5 calculation app using POCO C++ libraries installed with Conan C/C++ package manager.
 
 ## Compiling steps
 
