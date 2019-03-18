@@ -1,9 +1,6 @@
 cmake_minimum_required(VERSION 2.8.12)
 project(MD5Encrypter)
 
-set(CMAKE_CXX_STANDARD 11)
-set(CMAKE_CXX_STANDARD_REQUIRED ON)
-
 if(CMAKE_VERSION VERSION_LESS 3.0.0)
     include(CheckCXXCompilerFlag)
     check_cxx_compiler_flag(-std=c++11 COMPILER_SUPPORTS_CXX11)
